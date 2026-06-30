@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 本プロジェクト固有：データファイル（配布条件により除外）
+*.db
+*.sqbpro
+data/*.csv
